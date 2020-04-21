@@ -102,6 +102,27 @@ https://downloads.hak5.org/api/devices/wifipineapplenano/tools/wp6.sh/1.0/linux
 addb66db02408024ac9106771cd3afde99c345bf4c93b0c9df4e993c8847c457
 
 -------
+# These terminal tools can be useful to find information about issues and give clues to solving them.
+
+dmesg
+
+##### Used to find kernel & hardware information for the system.
+
+logread 
+
+##### replaces syslogd on the OpenWRT operating system. Can be used to find lots of useful log information
+
+## Examples -
+
+##### Find pineapple type
+
+dmesg | grep machine
+
+##### See all ssh logins
+
+logread | grep "auth.info ssh"
+
+--------
 
 
 
