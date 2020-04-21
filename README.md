@@ -34,8 +34,8 @@ android.permission.INTERNET
 Features:
 + android.hardware.faketouch
 + android.hardware.screen.portrait
-# android.hardware.faketouch (default feature for all apps)
-# android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
++ android.hardware.faketouch (default feature for all apps)
++ android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
 @ application: label='WiFi Pineapple Connector' icon='res/mipmap-mdpi-v4/ic_launcher.png'
 @ launchable-activity: name='org.hak5.pineappleconnector.MainActivity'  label='WiFi Pineapple Connector' icon=''
 @ main
@@ -76,8 +76,8 @@ android.permission.INTERNET
 Features:
 + android.hardware.faketouch
 + android.hardware.screen.portrait
-# android.hardware.faketouch (default feature for all apps)
-# android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
++ android.hardware.faketouch (default feature for all apps)
++ android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
 @ application: label='WiFi Pineapple Connector' icon='res/mipmap-mdpi-v4/ic_launcher.png'
 @ launchable-activity: name='org.hak5.pineappleconnector.MainActivity'  label='WiFi Pineapple Connector' icon=''
 @ main
@@ -118,8 +118,8 @@ android.permission.INTERNET
 Features:
 + android.hardware.faketouch
 + android.hardware.screen.portrait
-# android.hardware.faketouch (default feature for all apps)
-# android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
++ android.hardware.faketouch (default feature for all apps)
++ android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
 @ application: label='WiFi Pineapple Connector' icon='res/mipmap-mdpi-v4/ic_launcher.png'
 @ launchable-activity: name='org.hak5.wifipineappleconnector.MainActivity'  label='WiFi Pineapple Connector' icon=''
 @ main
@@ -160,8 +160,8 @@ android.permission.INTERNET
 Features:
 + android.hardware.faketouch
 + android.hardware.screen.portrait
-# android.hardware.faketouch (default feature for all apps)
-# android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
++ android.hardware.faketouch (default feature for all apps)
++ android.hardware.screen.portrait (one or more activities have specified a portrait orientation)
 @ application: label='WiFi Pineapple Connector' icon='res/mipmap-mdpi-v4/ic_launcher.png'
 @ launchable-activity: name='org.hak5.wifipineappleconnector.MainActivity'  label='WiFi Pineapple Connector' icon=''
 @ main
