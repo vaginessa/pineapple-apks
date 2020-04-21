@@ -1,3 +1,69 @@
+# nano
+
+https://downloads.hak5.org/pineapple/nano
+
+-----
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.3
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.4
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.5
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.6
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.1.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.1.1
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.1.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.1.3
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.0.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.1.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.1.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.2.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.3.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.3.1
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.3.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.4.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.4.1
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.4.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.5.0
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.5.1
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.5.2
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.5.3
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.5.4
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.6.0
+
+-------
+
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.6.1
+
+8b716128b9573aa7f093552aacae5c667c9b3452b8d3a58fa6be9339a10a299c
+
+-------
+
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.6.2
+
+ 05e3ac168bfc5208f6cc95bf31117ad97d7893a39a349340644b6b9b4eabae1b
+ 
+ ---------
+
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/2.7.0
+
+c69629ef90c715600e09f22ef12732c593f886db3b0ed145f549de551c48f79d
+
+--------
+
+https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/recovery
+
+ a40f0d790369a3490bcd271f89201460282c34a4f530aa7261f0cb4d45ab2c40
+
+----------
+
+https://downloads.hak5.org/api/devices/wifipineapplenano/tools/wp6.sh/1.0/linux
+
+addb66db02408024ac9106771cd3afde99c345bf4c93b0c9df4e993c8847c457
+
+-------
+
+
+
+
 # pineapple-apks
 
 ### org-hak5-pineappleconnector-2-20047971-0582c876a40cde26525dd3bc02694da8.apk
