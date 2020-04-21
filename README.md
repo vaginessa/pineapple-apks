@@ -7,7 +7,18 @@ https://github.com/topics/wifipineapple?o=desc&s=updated
 
 
 https://downloads.hak5.org/pineapple/nano
+-----
+# External Links
+###### WiFi Pineapple
 
+--------
+Hak5's WiFi Pineapple
+- [Website](https://www.wifipineapple.com/)
+- [Forum](https://forums.hak5.org/forum/64-wifi-pineapple/)
+- [Wiki](https://wifipineapple.github.io/wifipineapple-wiki//#!index.md)
+- [Github Wiki](https://github.com/hak5darren/wifipineapple-wiki)
+- [Pineapple University](https://www.hak5.org/category/episodes/pineapple-university)
+--------
 -----
 https://downloads.hak5.org/api/devices/wifipineapplenano/firmwares/1.0.2
 
