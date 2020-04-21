@@ -1,5 +1,7 @@
 # pineapple-apks
 
+### org-hak5-pineappleconnector-2-20047971-0582c876a40cde26525dd3bc02694da8.apk
+
 Detailed information:
 App Name: WiFi Pineapple Connector
 Package: org.hak5.pineappleconnector
@@ -41,6 +43,9 @@ Features:
 @ main
 
 -------------------------------------
+
+### wifi-pineapple-connector_1.1.apk
+
 
 Detailed information:
 App Name: WiFi Pineapple Connector
